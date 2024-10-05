@@ -55,4 +55,4 @@ This project conducts a **side-by-side comparison** of ANN and CNN models on the
   
 ## Conclusion
 
-This project demonstrates the superiority of **Convolutional Neural Networks (CNNs)** over **Artificial Neural Networks (ANNs)** for image classification tasks. While ANNs struggle with high-dimensional data like images, CNNs excel due to their ability to extract spatial features through convolutional operations and pooling layers.
+This project demonstrates the superiority of **Convolutional Neural Networks (CNNs)** over **Artificial Neural Networks (ANNs)** for image classification tasks. While ANNs struggle with high-dimensional data like images, CNNs excel due to their ability to extract spatial features through convolutional operations and pooling layers.   
